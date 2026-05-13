@@ -1,0 +1,38 @@
+{
+  "primary": {
+    "id": "cta-main",
+    "eyebrow": "Gotowi na rozmowę?",
+    "headline": "Twoja marka zasługuje na stoisko, którego nie da się przeoczyć.",
+    "subheadline": "Napisz lub zadzwoń — w 30 minut zrozumiemy brief, w 2–3 dni dostarczymy szacunkowy kosztorys.",
+    "primaryButton": {
+      "label": "Wyceń stoisko",
+      "href": "#kontakt"
+    },
+    "secondaryButton": {
+      "label": "Zobacz portfolio",
+      "href": "#realizacje"
+    }
+  },
+  "inline": {
+    "id": "cta-inline",
+    "headline": "Masz konkretne targi w głowie?",
+    "subheadline": "Im wcześniej zaczniemy rozmowę, tym więcej możliwości.",
+    "button": {
+      "label": "Napisz do nas",
+      "href": "mailto:office@moa.pl"
+    }
+  },
+  "sticky": {
+    "id": "cta-sticky",
+    "label": "Wyceń stoisko",
+    "href": "#kontakt"
+  },
+  "newsletter": {
+    "id": "cta-newsletter",
+    "headline": "Bądź na bieżąco z naszymi realizacjami",
+    "subheadline": "Co jakiś czas wysyłamy krótkiego maila z nowymi projektami i przemyśleniami o wystawiennictwie. Zero spamu.",
+    "placeholder": "twoj@email.pl",
+    "buttonLabel": "Zapisz się",
+    "consentLabel": "Wyrażam zgodę na przetwarzanie moich danych w celu wysyłki newslettera (RODO)."
+  }
+}

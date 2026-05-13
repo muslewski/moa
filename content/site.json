@@ -1,0 +1,36 @@
+{
+  "name": "MOA Masters of Arts",
+  "legalName": "MOA Masters of Arts sp. z o.o.",
+  "shortName": "MOA",
+  "tagline": "Unikatowe stoiska targowe",
+  "taglineEn": "Unique exhibition stands",
+  "description": "Interdyscyplinarne biuro projektowe od 2006 roku tworzące nagradzane, unikatowe stoiska targowe dla wymagających marek.",
+  "foundedYear": 2006,
+  "language": "pl",
+  "locale": "pl-PL",
+  "seo": {
+    "title": "MOA Masters of Arts — Unikatowe stoiska targowe | Projektowanie i realizacja",
+    "description": "Projektujemy i realizujemy nagradzane stoiska targowe. Red Dot, iF Design, German Design Award, A'Design Award. Design thinking dla marek, które chcą być zauważone.",
+    "keywords": [
+      "stoiska targowe",
+      "projektowanie stoisk targowych",
+      "unikatowe stoiska",
+      "design stoiska",
+      "stoiska wystawiennicze",
+      "zabudowa targowa",
+      "Bydgoszcz",
+      "Niemcz",
+      "MOA Masters of Arts",
+      "Red Dot Award",
+      "iF Design Award",
+      "wystawiennictwo"
+    ],
+    "ogImage": "/images/og/moa-og.jpg"
+  },
+  "brand": {
+    "primaryColor": "#000000",
+    "accentColor": "#E2231A",
+    "logoLight": "/images/logo/moa-light.svg",
+    "logoDark": "/images/logo/moa-dark.svg"
+  }
+}

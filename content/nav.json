@@ -1,0 +1,20 @@
+{
+  "primary": [
+    { "label": "O nas", "href": "#o-nas" },
+    { "label": "Usługi", "href": "#uslugi" },
+    { "label": "Realizacje", "href": "#realizacje" },
+    { "label": "Proces", "href": "#proces" },
+    { "label": "Nagrody", "href": "#nagrody" },
+    { "label": "FAQ", "href": "#faq" },
+    { "label": "Kontakt", "href": "#kontakt" }
+  ],
+  "cta": {
+    "label": "Wyceń stoisko",
+    "href": "#kontakt",
+    "variant": "primary"
+  },
+  "phone": {
+    "label": "+48 501 027 234",
+    "href": "tel:+48501027234"
+  }
+}

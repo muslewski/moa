@@ -1,0 +1,126 @@
+{
+  "description": "Mapa sekcji homepage. 'easyWin: true' oznacza sekcje, w których mamy już mocne treści i social proof — warto uruchomić je w pierwszej kolejności. 'priority' sortuje od najważniejszej dla strony głównej.",
+  "homepage": [
+    {
+      "id": "hero",
+      "label": "Hero",
+      "file": "hero.json",
+      "easyWin": true,
+      "priority": 1,
+      "note": "Mocny komunikat + 4 nagrody jako trust bar. Treść gotowa."
+    },
+    {
+      "id": "awards",
+      "label": "Nagrody",
+      "file": "awards.json",
+      "easyWin": true,
+      "priority": 2,
+      "note": "Najmocniejszy social proof. 4 międzynarodowe nagrody to gotowa wizytówka."
+    },
+    {
+      "id": "services",
+      "label": "Usługi",
+      "file": "services.json",
+      "easyWin": true,
+      "priority": 3,
+      "note": "6 jasno opisanych usług. Treść gotowa, brak potrzeby walidacji."
+    },
+    {
+      "id": "process",
+      "label": "Proces",
+      "file": "process.json",
+      "easyWin": true,
+      "priority": 4,
+      "note": "5 kroków design thinking. Pokazuje klarowny przebieg współpracy — zdejmuje obawę o nieznane."
+    },
+    {
+      "id": "about",
+      "label": "O nas",
+      "file": "about.json",
+      "easyWin": true,
+      "priority": 5,
+      "note": "Krótka historia + 4 wartości + liczby. Wszystko sprawdzalne."
+    },
+    {
+      "id": "industries",
+      "label": "Branże",
+      "file": "industries.json",
+      "easyWin": true,
+      "priority": 6,
+      "note": "Sygnał uniwersalności firmy. Treść neutralna, gotowa do publikacji."
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "file": "faq.json",
+      "easyWin": true,
+      "priority": 7,
+      "note": "10 typowych pytań klientów. Realna pomoc w pre-sales."
+    },
+    {
+      "id": "cta",
+      "label": "CTA",
+      "file": "cta.json",
+      "easyWin": true,
+      "priority": 8,
+      "note": "Jeden silny CTA przy końcu strony + sticky w nagłówku."
+    },
+    {
+      "id": "contact",
+      "label": "Kontakt",
+      "file": "contact.json",
+      "easyWin": true,
+      "priority": 9,
+      "note": "Wszystkie dane firmowe + formularz z briefem."
+    },
+    {
+      "id": "footer",
+      "label": "Stopka",
+      "file": "footer.json",
+      "easyWin": true,
+      "priority": 10,
+      "note": "Komplet danych prawnych firmy. Gotowe."
+    },
+    {
+      "id": "portfolio",
+      "label": "Realizacje",
+      "file": "portfolio.json",
+      "easyWin": false,
+      "priority": 11,
+      "note": "Wymaga zdjęć i opisów rzeczywistych projektów od klienta. Struktura przygotowana, treść do uzupełnienia."
+    },
+    {
+      "id": "team",
+      "label": "Zespół",
+      "file": "team.json",
+      "easyWin": false,
+      "priority": 12,
+      "note": "Wymaga zdjęć członków zespołu i ich zgody na publikację bio."
+    },
+    {
+      "id": "testimonials",
+      "label": "Opinie klientów",
+      "file": "testimonials.json",
+      "easyWin": false,
+      "priority": 13,
+      "note": "Wymaga zebrania prawdziwych opinii klientów (i zgód). Bez tego pomijamy lub odpalamy później."
+    }
+  ],
+  "recommendedLaunchOrder": [
+    "hero",
+    "awards",
+    "services",
+    "process",
+    "about",
+    "industries",
+    "faq",
+    "cta",
+    "contact",
+    "footer"
+  ],
+  "addLater": [
+    "portfolio",
+    "team",
+    "testimonials"
+  ]
+}

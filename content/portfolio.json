@@ -1,0 +1,76 @@
+{
+  "eyebrow": "Realizacje",
+  "headline": "Stoiska, które wygrały nagrody i klientów.",
+  "subheadline": "Każdy projekt to inny brief, inny brand, inna hala. Łączy je jedno — żaden nie wygląda jak stoisko obok.",
+  "filters": [
+    { "id": "all", "label": "Wszystkie" },
+    { "id": "fair", "label": "Stoiska targowe" },
+    { "id": "showroom", "label": "Showroomy" },
+    { "id": "event", "label": "Eventy" },
+    { "id": "awarded", "label": "Nagrodzone" }
+  ],
+  "items": [
+    {
+      "id": "oka-reddot",
+      "title": "OKA",
+      "category": "fair",
+      "tags": ["awarded", "fair"],
+      "year": 2017,
+      "client": "OKA",
+      "event": "Orgatec, Kolonia",
+      "summary": "Transparentna fasada z drewnianymi belkami symbolizująca proces myśli projektowej. Laureat Red Dot Award 2017.",
+      "description": "Stoisko zbudowane wokół metafory — pęku promieni rozchodzących się z jednego punktu, jako wizualizacja przebłysku geniuszu projektowego. Wnętrze otwiera się przez tunel, który prowadzi do zielonej ściany i strefy spotkań.",
+      "awards": ["Red Dot Award 2017"],
+      "cover": "/images/portfolio/oka/cover.jpg",
+      "gallery": [
+        "/images/portfolio/oka/01.jpg",
+        "/images/portfolio/oka/02.jpg",
+        "/images/portfolio/oka/03.jpg"
+      ]
+    },
+    {
+      "id": "project-if-2018",
+      "title": "Stoisko nagrodzone iF Design Award 2018",
+      "category": "fair",
+      "tags": ["awarded", "fair"],
+      "year": 2018,
+      "client": "—",
+      "event": "—",
+      "summary": "Zwycięski projekt iF Design Award 2018 w kategorii Communication / Exhibition Design.",
+      "description": "Szczegóły projektu uzupełnimy treścią klienta.",
+      "awards": ["iF Design Award 2018"],
+      "cover": "/images/portfolio/if-2018/cover.jpg",
+      "gallery": []
+    },
+    {
+      "id": "project-adesign-2019",
+      "title": "Stoisko nagrodzone A'Design Award 2019",
+      "category": "fair",
+      "tags": ["awarded", "fair"],
+      "year": 2019,
+      "client": "—",
+      "event": "—",
+      "summary": "Platinum Winner — najwyższy stopień nagrody A'Design Award w kategorii Trade Show & Fair Design.",
+      "description": "Szczegóły projektu uzupełnimy treścią klienta.",
+      "awards": ["A'Design Award 2019 Platinum"],
+      "cover": "/images/portfolio/adesign-2019/cover.jpg",
+      "gallery": []
+    },
+    {
+      "id": "project-gda-2020",
+      "title": "Stoisko nagrodzone German Design Award 2020",
+      "category": "fair",
+      "tags": ["awarded", "fair"],
+      "year": 2020,
+      "client": "—",
+      "event": "—",
+      "summary": "Winner German Design Award w kategorii Excellent Communications Design — Fair and Exhibition.",
+      "description": "Szczegóły projektu uzupełnimy treścią klienta.",
+      "awards": ["German Design Award 2020"],
+      "cover": "/images/portfolio/gda-2020/cover.jpg",
+      "gallery": []
+    }
+  ],
+  "viewAllLabel": "Zobacz pełne portfolio",
+  "viewAllHref": "/realizacje"
+}

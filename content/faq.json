@@ -1,0 +1,47 @@
+{
+  "eyebrow": "FAQ",
+  "headline": "Najczęściej zadawane pytania",
+  "subheadline": "Nie znalazłeś odpowiedzi? Napisz lub zadzwoń — odpowiadamy w ciągu jednego dnia roboczego.",
+  "items": [
+    {
+      "question": "Ile kosztuje zaprojektowanie i wykonanie stoiska targowego?",
+      "answer": "Koszt zależy od metrażu, poziomu skomplikowania projektu, wybranych materiałów, technologii (np. multimediów) i lokalizacji targów. Stoiska indywidualne projektujemy najczęściej w przedziale od kilkudziesięciu do kilkuset tysięcy złotych. Po krótkiej rozmowie i ogólnym briefie przedstawiamy szacunkowy kosztorys w 2–3 dni robocze, bez zobowiązań."
+    },
+    {
+      "question": "Z jakim wyprzedzeniem trzeba do Was przyjść?",
+      "answer": "Optymalnie 4–6 miesięcy przed targami — to daje komfort na briefing, koncepcję, akceptacje i spokojną produkcję. Pracowaliśmy też w krótszych terminach (nawet 6–8 tygodni), ale wtedy ograniczamy skomplikowane elementy custom. Im wcześniej, tym więcej możliwości."
+    },
+    {
+      "question": "Czy projektujecie tylko stoiska, czy też je budujecie?",
+      "answer": "Robimy obie rzeczy i staramy się oferować pełną usługę. Mamy własne zaplecze produkcyjne — stolarkę, ślusarkę, grafikę wielkoformatową. To pozwala pilnować jakości i terminów. Możemy też sam projekt przekazać do realizacji wskazanemu wykonawcy."
+    },
+    {
+      "question": "Na jakich targach realizujecie stoiska?",
+      "answer": "Krajowe (Poznań, Kielce, Warszawa, Katowice) i międzynarodowe — pracujemy regularnie na targach w Niemczech (Kolonia, Frankfurt, Mediolan), we Włoszech, we Francji, w Holandii. Logistyka międzynarodowa to dla nas codzienność."
+    },
+    {
+      "question": "Czy stoisko można wykorzystać kilka razy?",
+      "answer": "Tak — projekty modułowe planujemy tak, by można je było składać w różnych konfiguracjach i wykorzystywać na kolejnych edycjach. Magazynujemy elementy między targami i serwisujemy je. Często odświeżamy grafiki, zachowując konstrukcję."
+    },
+    {
+      "question": "Co Was wyróżnia spośród innych firm wystawienniczych?",
+      "answer": "Cztery międzynarodowe nagrody designu — Red Dot, iF, German Design Award i A'Design Award Platinum — są jasnym sygnałem, że pracujemy na poziomie najlepszych studiów na świecie. Pracujemy z metodą design thinking, nie powielamy szablonów i mamy własne zaplecze produkcyjne. To rzadkie połączenie."
+    },
+    {
+      "question": "Czy oferujecie też tańsze, modułowe stoiska?",
+      "answer": "Tak. Obok unikatowych projektów custom mamy rozwiązania modułowe — szybsze w montażu, niższe kosztowo, idealne na mniejsze eventy lub gdy stoisko jest potrzebne na już."
+    },
+    {
+      "question": "Czy zajmujecie się też wnętrzami showroomów i przestrzeniami eventowymi?",
+      "answer": "Tak. Projektujemy showroomy marek, popup-store'y, scenografie eventów i przestrzenie komercyjne. Tę samą wrażliwość, którą stosujemy na targach, przenosimy na stałe przestrzenie marki."
+    },
+    {
+      "question": "Jak wygląda pierwszy kontakt?",
+      "answer": "Najlepiej krótki mail (office@moa.pl) z informacją o firmie, targach, metrażu i przybliżonym terminie. Odzywamy się tego samego lub następnego dnia i umawiamy 30-minutową rozmowę, w której ustalamy zakres współpracy."
+    },
+    {
+      "question": "Czy podpisujemy NDA?",
+      "answer": "Oczywiście. Jeśli projekt jest poufny (np. premiera produktu na targach), podpisujemy umowę o poufności jeszcze przed briefingiem."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "eyebrow": "Dla kogo pracujemy",
+  "headline": "Branże, w których czujemy się jak u siebie.",
+  "subheadline": "Realizowaliśmy stoiska dla firm z różnych sektorów — od mebli biurowych po produkty premium. Wszędzie tam, gdzie liczy się pierwsze wrażenie.",
+  "items": [
+    { "name": "Meble i wyposażenie wnętrz", "icon": "armchair" },
+    { "name": "Architektura i wykończenie", "icon": "building" },
+    { "name": "Motoryzacja i mobility", "icon": "car" },
+    { "name": "Produkty premium i lifestyle", "icon": "gem" },
+    { "name": "Spożywka i HoReCa", "icon": "utensils" },
+    { "name": "Technologie i IT", "icon": "cpu" },
+    { "name": "Kosmetyki i beauty", "icon": "sparkle" },
+    { "name": "Przemysł i produkcja", "icon": "factory" }
+  ]
+}

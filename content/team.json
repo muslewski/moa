@@ -1,0 +1,23 @@
+{
+  "eyebrow": "Zespół",
+  "headline": "Mali zespół, duże ambicje.",
+  "subheadline": "Pracujemy w niewielkim, zgranym składzie — bez warstw pośrednich. Z klientem rozmawia osoba, która faktycznie odpowiada za projekt.",
+  "members": [
+    {
+      "name": "Marek Maciuba",
+      "role": "Założyciel, Prezes Zarządu",
+      "bio": "Założył MOA w 2006 roku. Od kilkunastu lat prowadzi zespół przez projekty, które przynoszą międzynarodowe nagrody designu.",
+      "photo": "/images/team/marek-maciuba.jpg",
+      "linkedin": "https://www.linkedin.com/in/marek-maciuba-4a393b11/",
+      "email": "office@moa.pl"
+    },
+    {
+      "name": "Marta Poszwa",
+      "role": "Projektantka",
+      "bio": "Odpowiada za warstwę projektową stoisk. Wspólnie z zespołem przekuwa briefy w narracje przestrzenne.",
+      "photo": "/images/team/marta-poszwa.jpg",
+      "linkedin": null,
+      "email": "office@moa.pl"
+    }
+  ]
+}

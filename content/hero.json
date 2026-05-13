@@ -1,0 +1,29 @@
+{
+  "eyebrow": "Od 2006 roku",
+  "headline": "Unikatowe stoiska targowe, które zostają w pamięci.",
+  "headlineHighlight": "zostają w pamięci",
+  "subheadline": "Projektujemy i realizujemy nagradzane stoiska wystawiennicze dla marek, które nie chcą wyglądać jak wszyscy inni. Design thinking, międzynarodowe nagrody, kompleksowa realizacja — od pomysłu po demontaż.",
+  "primaryCta": {
+    "label": "Porozmawiajmy o Twoim stoisku",
+    "href": "#kontakt"
+  },
+  "secondaryCta": {
+    "label": "Zobacz realizacje",
+    "href": "#realizacje"
+  },
+  "trustBar": {
+    "label": "Laureat międzynarodowych nagród:",
+    "badges": [
+      { "name": "Red Dot Award 2017", "type": "winner" },
+      { "name": "iF Design Award 2018", "type": "winner" },
+      { "name": "A'Design Award 2019 Platinum", "type": "platinum" },
+      { "name": "German Design Award 2020", "type": "winner" }
+    ]
+  },
+  "media": {
+    "type": "image",
+    "src": "/images/hero/oka-stand.jpg",
+    "alt": "Stoisko targowe OKA zaprojektowane przez MOA — laureat Red Dot Award",
+    "caption": "Projekt OKA — laureat Red Dot Award 2017"
+  }
+}

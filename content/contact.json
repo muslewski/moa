@@ -1,0 +1,61 @@
+{
+  "eyebrow": "Kontakt",
+  "headline": "Porozmawiajmy o Twoim stoisku.",
+  "subheadline": "Najszybszą drogą jest mail lub telefon. Na briefy odpowiadamy w ciągu jednego dnia roboczego.",
+  "channels": [
+    {
+      "type": "email",
+      "label": "E-mail",
+      "value": "office@moa.pl",
+      "href": "mailto:office@moa.pl",
+      "primary": true
+    },
+    {
+      "type": "phone",
+      "label": "Telefon",
+      "value": "+48 501 027 234",
+      "href": "tel:+48501027234",
+      "primary": true
+    }
+  ],
+  "address": {
+    "label": "Biuro i pracownia",
+    "street": "ul. Krzysztofa Kolumba 2",
+    "postalCode": "86-032",
+    "city": "Niemcz",
+    "region": "kujawsko-pomorskie",
+    "country": "Polska",
+    "mapUrl": "https://maps.app.goo.gl/WC31gfBJbEuvaj8t5",
+    "geo": {
+      "lat": 53.1924655,
+      "lng": 18.0215948
+    }
+  },
+  "hours": [
+    { "days": "Poniedziałek – Piątek", "hours": "9:00 – 17:00" },
+    { "days": "Sobota – Niedziela", "hours": "Zamknięte (na zapytanie)" }
+  ],
+  "form": {
+    "headline": "Zostaw brief, oddzwonimy",
+    "fields": [
+      { "name": "name", "label": "Imię i nazwisko", "type": "text", "required": true },
+      { "name": "company", "label": "Firma", "type": "text", "required": false },
+      { "name": "email", "label": "E-mail", "type": "email", "required": true },
+      { "name": "phone", "label": "Telefon", "type": "tel", "required": false },
+      { "name": "event", "label": "Targi / event", "type": "text", "required": false, "placeholder": "Np. Orgatec Kolonia, październik 2026" },
+      { "name": "size", "label": "Przybliżony metraż stoiska", "type": "text", "required": false, "placeholder": "Np. 80 m²" },
+      { "name": "budget", "label": "Orientacyjny budżet", "type": "select", "required": false, "options": [
+        "Do 50 000 PLN",
+        "50 000 – 150 000 PLN",
+        "150 000 – 300 000 PLN",
+        "Powyżej 300 000 PLN",
+        "Nie wiem jeszcze"
+      ]},
+      { "name": "message", "label": "Opowiedz nam o projekcie", "type": "textarea", "required": true, "rows": 5, "placeholder": "Marka, cele udziału w targach, inspiracje, terminy..." },
+      { "name": "consent", "label": "Wyrażam zgodę na przetwarzanie moich danych w celu udzielenia odpowiedzi (RODO).", "type": "checkbox", "required": true }
+    ],
+    "submitLabel": "Wyślij brief",
+    "successMessage": "Dzięki! Mail dotarł. Odpowiemy w ciągu jednego dnia roboczego.",
+    "errorMessage": "Coś poszło nie tak. Napisz prosto na office@moa.pl, oddzwonimy."
+  }
+}

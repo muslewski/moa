@@ -1,0 +1,57 @@
+{
+  "tagline": "Unikatowe stoiska targowe od 2006 roku.",
+  "columns": [
+    {
+      "title": "Oferta",
+      "links": [
+        { "label": "Projektowanie stoisk", "href": "#uslugi" },
+        { "label": "Produkcja i zabudowa", "href": "#uslugi" },
+        { "label": "Branding i komunikacja", "href": "#uslugi" },
+        { "label": "Logistyka i montaż", "href": "#uslugi" },
+        { "label": "Stoiska modułowe", "href": "#uslugi" },
+        { "label": "Showroomy i eventy", "href": "#uslugi" }
+      ]
+    },
+    {
+      "title": "Firma",
+      "links": [
+        { "label": "O nas", "href": "#o-nas" },
+        { "label": "Realizacje", "href": "#realizacje" },
+        { "label": "Nagrody", "href": "#nagrody" },
+        { "label": "Proces", "href": "#proces" },
+        { "label": "FAQ", "href": "#faq" }
+      ]
+    },
+    {
+      "title": "Kontakt",
+      "links": [
+        { "label": "office@moa.pl", "href": "mailto:office@moa.pl" },
+        { "label": "+48 501 027 234", "href": "tel:+48501027234" },
+        { "label": "ul. Krzysztofa Kolumba 2", "href": "https://maps.app.goo.gl/WC31gfBJbEuvaj8t5" },
+        { "label": "86-032 Niemcz", "href": "https://maps.app.goo.gl/WC31gfBJbEuvaj8t5" }
+      ]
+    },
+    {
+      "title": "Obserwuj",
+      "links": [
+        { "label": "Facebook", "href": "https://www.facebook.com/p/MOA-Masters-of-Arts-100054668850384/", "external": true },
+        { "label": "YouTube", "href": "https://www.youtube.com/", "external": true },
+        { "label": "LinkedIn", "href": "https://www.linkedin.com/", "external": true },
+        { "label": "Instagram", "href": "https://www.instagram.com/", "external": true }
+      ]
+    }
+  ],
+  "legal": {
+    "companyName": "MOA Masters of Arts sp. z o.o.",
+    "address": "ul. Krzysztofa Kolumba 2, 86-032 Niemcz",
+    "krs": "0000667795",
+    "nip": "9721126345",
+    "regon": "300209736",
+    "copyright": "© 2026 MOA Masters of Arts sp. z o.o. Wszelkie prawa zastrzeżone."
+  },
+  "links": [
+    { "label": "Polityka prywatności", "href": "/polityka-prywatnosci" },
+    { "label": "Pliki cookies", "href": "/cookies" },
+    { "label": "Regulamin", "href": "/regulamin" }
+  ]
+}

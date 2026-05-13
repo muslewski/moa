@@ -1,0 +1,85 @@
+{
+  "eyebrow": "Co robimy",
+  "headline": "Stoisko targowe od pierwszego szkicu do ostatniej śruby.",
+  "subheadline": "Bierzemy na siebie cały proces, żebyś mógł skupić się na rozmowach z klientami, a nie na zarządzaniu dziesięcioma podwykonawcami.",
+  "items": [
+    {
+      "id": "design",
+      "title": "Projektowanie stoisk",
+      "shortTitle": "Projekt",
+      "description": "Indywidualny projekt koncepcyjny, wizualizacje 3D, dokumentacja techniczna. Każdy projekt powstaje od zera w oparciu o strategię Twojej marki.",
+      "icon": "compass",
+      "features": [
+        "Brief strategiczny i warsztat z klientem",
+        "Koncepcja architektoniczna i scenograficzna",
+        "Fotorealistyczne wizualizacje 3D",
+        "Dokumentacja techniczna i wykonawcza"
+      ]
+    },
+    {
+      "id": "production",
+      "title": "Produkcja i zabudowa",
+      "shortTitle": "Produkcja",
+      "description": "Własne zaplecze produkcyjne. Stolarka, ślusarka, grafika, oświetlenie, multimedia — wszystko z jednej ręki.",
+      "icon": "hammer",
+      "features": [
+        "Zabudowa stolarska i konstrukcje custom",
+        "Grafika wielkoformatowa i oklejanie",
+        "Oświetlenie architektoniczne i sceniczne",
+        "Multimedia i instalacje interaktywne"
+      ]
+    },
+    {
+      "id": "branding",
+      "title": "Branding i komunikacja",
+      "shortTitle": "Branding",
+      "description": "Stoisko to nie tylko architektura — to spójna opowieść o marce, w której każdy element pracuje na ten sam cel.",
+      "icon": "sparkle",
+      "features": [
+        "Komunikacja wizualna na stoisku",
+        "Materiały drukowane i POS",
+        "Wideo, animacje, treści cyfrowe",
+        "Fotografia stoiska na targach"
+      ]
+    },
+    {
+      "id": "logistics",
+      "title": "Logistyka, montaż, demontaż",
+      "shortTitle": "Logistyka",
+      "description": "Transport krajowy i międzynarodowy, montaż i demontaż na czas, magazynowanie elementów między targami.",
+      "icon": "truck",
+      "features": [
+        "Transport w kraju i za granicą",
+        "Montaż pod kluczowymi targami w Europie",
+        "Serwis w trakcie trwania targów",
+        "Magazynowanie i recykling konstrukcji"
+      ]
+    },
+    {
+      "id": "rental",
+      "title": "Stoiska modułowe i wynajem",
+      "shortTitle": "Wynajem",
+      "description": "Dla mniejszych eventów lub gdy stoisko jest potrzebne szybko — modułowe rozwiązania z bibliotek wielokrotnego użytku.",
+      "icon": "grid",
+      "features": [
+        "Systemy modułowe wielokrotnego użytku",
+        "Szybki montaż i niskie koszty",
+        "Personalizacja grafiką i meblami",
+        "Pełna obsługa logistyczna"
+      ]
+    },
+    {
+      "id": "interior",
+      "title": "Showroomy i przestrzenie eventowe",
+      "shortTitle": "Wnętrza",
+      "description": "Projektujemy nie tylko stoiska. Showroomy, popup-store'y, scenografie eventów i przestrzenie marki.",
+      "icon": "layout",
+      "features": [
+        "Showroomy i salony marki",
+        "Pop-up store'y i instalacje brandowe",
+        "Scenografia eventowa",
+        "Aranżacja wnętrz komercyjnych"
+      ]
+    }
+  ]
+}

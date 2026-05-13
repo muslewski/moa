@@ -1,0 +1,34 @@
+{
+  "eyebrow": "Opinie",
+  "headline": "Co mówią o naszej pracy.",
+  "subheadline": "Sekcja przygotowana do uzupełnienia rzeczywistymi opiniami klientów. Poniżej struktura danych — wpisz autentyczne cytaty po uzyskaniu zgody.",
+  "items": [
+    {
+      "quote": "Treść opinii klienta — uzupełnić po otrzymaniu zgody.",
+      "author": "Imię Nazwisko",
+      "role": "Stanowisko",
+      "company": "Nazwa firmy",
+      "logo": "/images/testimonials/logo-1.svg",
+      "avatar": "/images/testimonials/avatar-1.jpg",
+      "rating": 5
+    },
+    {
+      "quote": "Treść opinii klienta — uzupełnić po otrzymaniu zgody.",
+      "author": "Imię Nazwisko",
+      "role": "Stanowisko",
+      "company": "Nazwa firmy",
+      "logo": "/images/testimonials/logo-2.svg",
+      "avatar": "/images/testimonials/avatar-2.jpg",
+      "rating": 5
+    },
+    {
+      "quote": "Treść opinii klienta — uzupełnić po otrzymaniu zgody.",
+      "author": "Imię Nazwisko",
+      "role": "Stanowisko",
+      "company": "Nazwa firmy",
+      "logo": "/images/testimonials/logo-3.svg",
+      "avatar": "/images/testimonials/avatar-3.jpg",
+      "rating": 5
+    }
+  ]
+}

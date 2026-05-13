@@ -1,0 +1,33 @@
+{
+  "eyebrow": "O nas",
+  "headline": "Jesteśmy interdyscyplinarnym biurem projektowym, które wierzy, że stoisko targowe to coś więcej niż ściana z logo.",
+  "lead": "MOA Masters of Arts powstało w 2006 roku z prostego założenia — targi to scena, na której marka ma kilka sekund, żeby zatrzymać przy sobie kogoś, kto codziennie mija setki stoisk. Projektujemy tak, żeby ten ktoś się zatrzymał, wszedł i zapamiętał.",
+  "paragraphs": [
+    "Łączymy architekturę, design, scenografię i myślenie strategiczne. Każdy projekt zaczynamy od pytań, dyskusji i eksperymentu — bo tylko tak rodzą się rozwiązania, które wyłamują się ze schematu.",
+    "Nasze stoiska zdobyły najbardziej prestiżowe nagrody w świecie designu — Red Dot, iF Design Award, German Design Award oraz A'Design Award Platinum. Jako pierwsza polska firma w ponad 60-letniej historii Red Dot otrzymaliśmy nagrodę w kategorii Fair Stands."
+  ],
+  "values": [
+    {
+      "title": "Design thinking",
+      "description": "Każdy projekt zaczynamy od zrozumienia marki, celów biznesowych i grupy docelowej — nie od rzutu z góry."
+    },
+    {
+      "title": "Unikatowość",
+      "description": "Nie powielamy szablonów. Każde stoisko to indywidualny projekt skrojony pod jeden konkretny event."
+    },
+    {
+      "title": "Jakość wykonania",
+      "description": "Dbamy o detal — od materiału po oświetlenie. To, co widać w portfolio, wygląda tak samo dobrze na hali."
+    },
+    {
+      "title": "Kompleksowość",
+      "description": "Projekt, produkcja, logistyka, montaż, demontaż i magazynowanie — pod jednym dachem."
+    }
+  ],
+  "stats": [
+    { "value": "18+", "label": "lat doświadczenia", "suffix": "" },
+    { "value": "4", "label": "międzynarodowe nagrody designu", "suffix": "" },
+    { "value": "100+", "label": "zrealizowanych stoisk", "suffix": "" },
+    { "value": "1", "label": "polska firma z Red Dot w kat. Fair Stands", "suffix": "" }
+  ]
+}

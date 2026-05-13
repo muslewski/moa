@@ -1,0 +1,62 @@
+{
+  "eyebrow": "Jak pracujemy",
+  "headline": "Design thinking — zaczynamy od pytań, kończymy na gotowym stoisku.",
+  "subheadline": "Każdy projekt prowadzimy w klarownym, pięciostopniowym procesie. Wiesz w którym jesteś momencie, co dzieje się dalej i kiedy podejmujemy kluczowe decyzje.",
+  "steps": [
+    {
+      "number": "01",
+      "title": "Brief i odkrycie",
+      "duration": "1–2 tygodnie",
+      "description": "Słuchamy. Poznajemy markę, cele biznesowe, grupę docelową i kontekst targów. Wspólnie definiujemy, co stoisko ma osiągnąć.",
+      "deliverables": [
+        "Warsztat strategiczny",
+        "Brief projektowy",
+        "Mapa celów biznesowych"
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Koncepcja",
+      "duration": "2–3 tygodnie",
+      "description": "Eksperymentujemy. Przedstawiamy 2–3 kierunki kreatywne, każdy oparty o inny pomysł narracyjny. Wybieramy ten, który najlepiej pracuje na cele.",
+      "deliverables": [
+        "Kierunki kreatywne",
+        "Moodboard i style frames",
+        "Wstępna wizualizacja 3D"
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Projekt wykonawczy",
+      "duration": "3–4 tygodnie",
+      "description": "Pracujemy w detalu. Fotorealistyczne wizualizacje, rzuty, przekroje, specyfikacja materiałów. Wszystko, co potrzebne do produkcji.",
+      "deliverables": [
+        "Pełna dokumentacja techniczna",
+        "Wizualizacje finalne",
+        "Kosztorys i harmonogram"
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Produkcja",
+      "duration": "4–8 tygodni",
+      "description": "Budujemy w naszym warsztacie. Stolarka, ślusarka, grafika, oświetlenie, multimedia. Kontrola jakości na każdym etapie.",
+      "deliverables": [
+        "Próbny montaż w hali produkcyjnej",
+        "Kontrola jakości",
+        "Pakowanie do transportu"
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Montaż, targi, demontaż",
+      "duration": "Dni montażowe + targi",
+      "description": "Jesteśmy na miejscu. Montujemy zgodnie z harmonogramem hali, dbamy o serwis w trakcie targów, demontujemy i magazynujemy elementy.",
+      "deliverables": [
+        "Montaż przed otwarciem hali",
+        "Serwis techniczny podczas targów",
+        "Demontaż i transport powrotny"
+      ]
+    }
+  ]
+}

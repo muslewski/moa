@@ -1,0 +1,43 @@
+{
+  "eyebrow": "Nagrody",
+  "headline": "Cztery razy doceniani przez najsurowsze jury designu na świecie.",
+  "subheadline": "Nasze stoiska konkurowały z najlepszymi projektami z całego globu — i wygrywały. Jako pierwsza polska firma w historii konkursu Red Dot otrzymaliśmy nagrodę w kategorii Fair Stands.",
+  "items": [
+    {
+      "name": "Red Dot Award",
+      "year": 2017,
+      "category": "Communication Design — Fair Stands",
+      "level": "Winner",
+      "highlight": "Pierwsza polska firma w 60-letniej historii Red Dot w tej kategorii",
+      "logo": "/images/awards/reddot.svg",
+      "url": "https://www.red-dot.org/"
+    },
+    {
+      "name": "iF Design Award",
+      "year": 2018,
+      "category": "Communication / Exhibition Design",
+      "level": "Winner",
+      "highlight": "Jedna z najbardziej rozpoznawalnych nagród designu na świecie",
+      "logo": "/images/awards/if.svg",
+      "url": "https://ifdesign.com/"
+    },
+    {
+      "name": "A'Design Award",
+      "year": 2019,
+      "category": "Trade Show & Fair Design",
+      "level": "Platinum Winner",
+      "highlight": "Najwyższy poziom nagrody — Platinum",
+      "logo": "/images/awards/adesign.svg",
+      "url": "https://competition.adesignaward.com/"
+    },
+    {
+      "name": "German Design Award",
+      "year": 2020,
+      "category": "Excellent Communications Design — Fair and Exhibition",
+      "level": "Winner",
+      "highlight": "Nagroda przyznawana przez Rat für Formgebung",
+      "logo": "/images/awards/gda.svg",
+      "url": "https://www.german-design-award.com/"
+    }
+  ]
+}
